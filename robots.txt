@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oobaesheed.zenoh.io/sitemap.xml
